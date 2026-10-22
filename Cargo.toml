@@ -1,6 +1,6 @@
 [package]
 name = "minigrep-sakis"
-version = "0.1.4"
+version = "0.1.5"
 edition = "2024"
 description = "A simple case-insensitive text search library with cool colored output"
 license = "MIT"

@@ -10,7 +10,7 @@
  //! ## Example
  //!
  //! ```no_run
- //! use minigrep::greper;
+ //! use minigrep_sakis::greper;
  //!
  //! fn main() -> Result<(), &'static str> {
  //!     greper("rust", "example.txt")?;
@@ -62,7 +62,7 @@ use regex::bytes::Regex;
 /// # Examples
 ///
 /// ```no_run
-/// use minigrep::greper;
+/// use minigrep_sakis::greper;
 ///
 /// greper("Rust", "example.txt")?;
 /// # Ok::<(), &'static str>(())
